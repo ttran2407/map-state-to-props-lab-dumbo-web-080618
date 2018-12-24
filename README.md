@@ -5,6 +5,7 @@
 - Use the **React Redux** library to connect the store to the **React**
   application.
 
+
 - Utilize the **<Provider />** component, the `connect` function and
   `mapStateToProps` to access **Redux** store content.
 
